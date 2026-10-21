@@ -5,6 +5,7 @@
 
 ## 关于我
 这里是关于我的介绍。
+[个人简历.pdf](https://github.com/user-attachments/files/33745443/default.pdf)
 
 
 
