@@ -5,7 +5,8 @@
 
 ## 关于我
 这里是关于我的介绍。
-[Uploading 图片转PDF.pdf…]()
+[个人简历.pdf](https://github.com/user-attachments/files/33745180/default.pdf)
+
 
 
 ## 文章
